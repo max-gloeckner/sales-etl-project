@@ -1,0 +1,21 @@
+Date,Customer,Product,Amount,Price,Region
+2024-01-01,Max Müller,Apple,10,0.50,North
+2024-01-02,Sarah Meier,Banana,5,0.30,South
+2024-01-03,Max Müller,Apple,10,0.50,North
+2024-01-04,,Banana,3,0.30,West
+2024-01-05,Lena Koch,Orange,7,,East
+2024-01-06,Tom Schmitt,Apple,,0.50,North
+2024-01-07,Max Müller,Apple,5,0.50,North
+2024-01-08,Sarah Meier,Banana,5,0.30,South
+2024-01-09,Anne Schulz,Orange,8,0.60,East
+2024-01-10,Lena Koch,Apple,6,0.50,East
+2024-01-11,,Banana,4,0.30,West
+2024-01-12,Tom Schmitt,Apple,12,0.50,North
+2024-01-13,Max Müller,Orange,9,0.60,North
+2024-01-14,Sarah Meier,Apple,8,0.50,South
+2024-01-15,Lena Koch,Banana,6,0.30,East
+2024-01-16,Anne Schulz,,7,0.60,East
+2024-01-17,Max Müller,Apple,10,0.50,North
+2024-01-18,Sarah Meier,Banana,5,0.30,South
+2024-01-19,Tom Schmitt,Orange,8,0.60,West
+2024-01-20,Lena Koch,Apple,7,0.50,East
